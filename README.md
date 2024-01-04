@@ -1,2 +1,2 @@
 # ResumeHTMLonly.github.io
-I have msde my resume using only HTML
+I have made my resume using only HTML
